@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9d8756a8a8fc14341bea4ee747699268
+  - enabled: 1
+    path: Assets/Scenes/Marker.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MarkerLessGround.unity
+    guid: eb8dc4341be260e4f81f729e9deb37a7
+  - enabled: 1
+    path: Assets/Scenes/MarkerLessMidAir.unity
+    guid: ca24c2aa66fa19948b17ccaba7384a02
+  - enabled: 1
+    path: Assets/Scenes/SingleVirtualButton.unity
+    guid: 2e1054718cd1ea64389d411752585010
+  - enabled: 1
+    path: Assets/Scenes/MutipleVirtualButton.unity
+    guid: e6e481fcd53a7a941acd0a71b6b2c739
+  - enabled: 1
+    path: Assets/Scenes/CloudReco.unity
+    guid: 6fc8c6c14b962f8469b861fdf1372bb4
   m_configObjects: {}
